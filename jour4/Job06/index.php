@@ -5,9 +5,9 @@
     <title>Connexion</title>
   </head>
   <body>
-    <form class="" action="traitement.php" method="post">
+    <form class="" action="traitement.php" method="get">
       <label for="">Nombre</label><br>
-      <input type="text" name="login" value=""><br>
+      <input type="text" name="" value=""><br>
       <input type="submit" name="" value="envoyer">
     </form>
   </body>
