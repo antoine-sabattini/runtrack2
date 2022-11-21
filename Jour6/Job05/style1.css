@@ -1,0 +1,19 @@
+
+body{
+  background-image: url('https://www.cointribune.com/app/uploads/2021/08/dogecoin.jpg');
+  background-repeat: no-repeat;
+}
+
+.infos{
+  color: black;
+}
+
+p{
+  font-size: 2em;
+  font-family: 'Riffle', sans-serif;
+}
+
+
+.btn{
+  font-family: 'Riffle', sans-serif;
+}

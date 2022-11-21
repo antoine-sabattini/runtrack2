@@ -1,0 +1,11 @@
+
+body{
+  background-image: url('https://img.20mn.fr/SjJEHpi8QSmS8EaBs76Eow/1200x768_le-mythique-nyan-cat-est-mis-aux-encheres');
+  background-repeat: no-repeat;
+}
+
+p{
+  color : white;
+  font-size: 1.5em;
+  font-family: 'Eurocorp', sans-serif;
+}
